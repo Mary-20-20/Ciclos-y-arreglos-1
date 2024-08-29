@@ -1,5 +1,4 @@
 # Ciclos-y-arreglos-1
-ESTE ES EL PRIMER CODIGO DE "CICLOS Y ARREGLOS":
 
 #include <stdio.h>
 
