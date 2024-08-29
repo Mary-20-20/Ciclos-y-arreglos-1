@@ -1,4 +1,5 @@
 # Ciclos-y-arreglos-1
+Codigo 1 ciclos y arreglos en C
 
 #include <stdio.h>
 
