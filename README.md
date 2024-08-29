@@ -1,13 +1,12 @@
 # Ciclos-y-arreglos-1
 Codigo 1 ciclos y arreglos en C
 
-#include <stdio.h>
+    #include <stdio.h>
 
 
-float calcBmi(float h,float w);
+    float calcBmi(float h,float w);
 
-
-int main(){
+    int main(){
 
     int personas;
 
@@ -35,11 +34,10 @@ int main(){
     }
 
     }
-    
-float calcBmi(float h,float w){
+    float calcBmi(float h,float w){
     float bmi;
 
 
     bmi=w/((h/100.0)*(h/100.0));
     return bmi;
-}
+    }
